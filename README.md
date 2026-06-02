@@ -6,7 +6,7 @@
 This repository contains the **Node.js & Express.js** server-side logic, integrated with **MongoDB**, **Socket.io**, and **Generative AI**.
 
 🔗 **Live API: http://mypeg.in/
-🔗 **Frontend Repo: https://github.com/Guheshp/client-devTinder
+🔗 **Frontend Repo: https://github.com/kiran-pujar2002/client-devTinder
 
 ---
 
